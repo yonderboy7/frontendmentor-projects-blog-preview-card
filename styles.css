@@ -14,6 +14,7 @@ body {
   font-family: "Figtree", sans-serif;
   display: flex;
   justify-content: center;
+  align-items: center;
   background-color: var(--yellow);
 }
 
